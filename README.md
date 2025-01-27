@@ -1,4 +1,4 @@
-# Airline Loyalty Program 
+# Airline Loyalty Program Analysis
 
 This project analyzes customer loyalty, flight activities, and campaign effectiveness for an airline to derive insights, optimize loyalty programs, and improve campaign strategies. The analysis leverages dashboards and key performance indicators (KPIs) to understand trends, challenges, and opportunities.
 
