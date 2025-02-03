@@ -92,3 +92,6 @@ Key findings and recommendations help improve operational efficiency and optimiz
 ![{9276848E-DA61-4E29-8115-306BCA057C31}](https://github.com/user-attachments/assets/099d9f27-534e-402f-9006-540958b1cdbe)
 
 ![{C5500619-FE4C-428D-9F33-581D02077586}](https://github.com/user-attachments/assets/86ab8914-c3b8-4f03-a20b-3cf602651344)
+
+
+![Schema](https://github.com/user-attachments/assets/a72647e3-ca3e-47ed-b9d2-af456f2eb60c)
